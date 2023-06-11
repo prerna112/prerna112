@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prerna112
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning angular
+- 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
