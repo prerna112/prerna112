@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prerna112
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Devops
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
